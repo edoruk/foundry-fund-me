@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Usage
-=======
+
 ## Quickstart
 
 ```shell
@@ -10,7 +9,6 @@ forge build
 ```
 
 ## Usage
->>>>>>> 6db8172 (updated readme)
 
 ### Build
 
@@ -29,7 +27,6 @@ $ forge test
 ```shell
 $ forge fmt
 ```
-
 
 ### Anvil
 
