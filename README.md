@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 # Usage
+=======
+## Quickstart
+
+```shell
+git clone https://github.com/edoruk/foundry-fund-me/
+cd foundry-fund-me
+forge build
+```
+
+## Usage
+>>>>>>> 6db8172 (updated readme)
 
 ### Build
 
